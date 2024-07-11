@@ -1,0 +1,70 @@
+- use visual hierarchy (emphasize using size or colour the items that you want the user to look at first)
+- use whitespace
+- keep content minimal and informative
+- keep number of sub-pages low and as unambiguous as possible
+- F pattern (bold sub-headings on left)
+- horizontal layout for registration to prevent scrolling
+- follow conventions (can a user find what they're looking for in Japanese-translated babelfish version?)
+- have someone -else- test the website for usability early and often
+- be careful with colour, consider the colour-blind
+- double check different screen sizes, device types (tablet? phone?), browsers, connection speeds, etc.
+- keep layout and expectations consistent across pages
+- give feedback for any form of interaction (eg make sure a registration or submission gets not only an on-screen acknowledgment, but also a ringback email!)
+- provide alt-text and name links meaningfully for blind users (eg text to speech)
+- make it navigable using keyboard only
+
+- search bar? only if absolutely necessary (for a website of this size it shouldn't be!)
+
+- include a (separately-designed) printer-friendly info sheet!
+
+
+
+subheadings:
+----------
+
+- (HOME) basic info: date (menu bar?), location (menu bar?), directions, parking, registration costs, submission/registration deadlines
+- (REGISTER) or (REGISTER/SUBMIT AN ABSTRACT) instructions for presenters, forms for registration and submission, info on cancellation
+- (PROGRAM) at least for now include skeleton schedule and list the plenary speakers
+- (ACCOMODATIONS)
+- (GUELPH) what else there is to do and how to get around guelph
+- (SPONSORS) *** or put this on home page?
+- (OTHER CONFERENCES)
+- (ABOUT US)
+- (CONTACT) just a drop-down link menu!!! (well if they click, then display email address and also embed/link to facebook)
+
+- embed the twitter feed on home page
+
+TOP MENU: name of conference, date, location
+
+HOME: big sweet pic, oe3c is ..., organizers, sponsors
+PROGRAM: skeleton schedule, list of plenary speakers
+REGISTER/SUBMIT AN ABSTRACT: coming soon, costs and deadlines, register your interest [field: mailing list], instructions for abstract/presentation, info on cancellation
+VENUE: venue (directions, parking), accomodations, in guelph (what to do, how to get around, other conferences)
+ABOUT US
+CONTACT US
+
+
+no no no let's do this instead!
+
+HOME big sweet pic, oe3c is ..., organizers, sponsors
+VENUE directions, parking
+PROGRAM skeleton schedule, list of plenary speakers
+INSTRUCTIONS instructions for abstracts and presentation
+REGISTER coming soon, costs and deadlines, register your interest [field: mailing list], info on cancellation
+ACCOMODATIONS hotel info
+GUELPH what to do, how to get around, other conferences
+CONTACT not a drop-down menu, fold in about us
+
+
+
+<a class="twitter-timeline" width="300"
+ height="400" align="right"
+ href="https://twitter.com/OE3C2014"
+ data-widget-id="423160434187702272">Tweets by @OE3C2014</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>dsfdsf<br>
+
+<!-- Facebook Badge START --><a href="https://www.facebook.com/jahloydallaire" target="_TOP" title="Jamie Ahloy Dallaire"><img src="https://badge.facebook.com/badge/13602860.3835.1684248948.png" style="border: 0px;" /></a><!-- Facebook Badge END -->
+
+
+
+
